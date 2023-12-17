@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Merhaba ben Metehan Muradoğlu, Marmara Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim.<br>👯 Front-end alanında kendimi geliştirmekteyim. Html, css, js, ts, react, tailwind ve mui teknolojileri ile yakından ilgilenmekteyim.<br>🤝 Aktif olarak Tailwind, React ve MUI kullanarak proje geliştirmekteyim.<br>💬 İletişim için: Email - metehanmuradoglu17@gmail.com
+🔭 Merhaba ben Metehan Muradoğlu, Marmara Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim.<br>👯 Hem Front-end hem de Back-end alanında kendimi geliştirmekteyim. Html, css, js, ts, react, tailwind, express, mongodb ve nodejs teknolojileri ile yakından ilgilenmekteyim.<br>🤝 Aktif olarak Tailwind ve React kullanarak proje geliştirmekteyim. Aynı zamanda nodejs, express ve mongodb öğrenip backend tarafında kendimi geliştirmeye devam ediyorum.<br>💬 İletişim için: Email - metehanmuradoglu17@gmail.com
 
 
 ## 🌐 Socials:
