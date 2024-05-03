@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 Merhaba, ben Metehan Muradoğlu. Hem front-end hem de back-end alanları ile yakından 
 ilgilenmekteyim. Sıklıkla kullandığım teknolojiler ise React, Tailwind, Nodejs ve MongoDB. Aktif 
-olarak cloud ve website security konuları üzerinde çalışıp kendimi geliştirmeye devam ediyorum..<br>🤝 Aktif olarak Tailwind, React, Nodejs ve MongoDB kullanarak proje geliştirmekteyim.<br>💬 İletişim için: Email - metehanmuradoglu17@gmail.com
+olarak cloud ve website security konuları üzerinde çalışıp kendimi geliştirmeye devam ediyorum.<br>🤝 Aktif olarak Tailwind, React, Nodejs ve MongoDB kullanarak proje geliştirmekteyim.<br>💬 İletişim için: Email - metehanmuradoglu17@gmail.com<br>
+🧟cv: https://drive.google.com/file/d/1FqRXnssj20SIggbstAr-3425aj-7x-6g/view?usp=sharing
 
 
 ## 🌐 Socials:
